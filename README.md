@@ -1,2 +1,3 @@
 # coredag
-Extracted go-ipfs/core/coredag logic
+
+Extracted go-ipfs/core/coredag logic.
