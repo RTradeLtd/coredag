@@ -12,7 +12,7 @@ require (
 	github.com/ipfs/go-ipld-cbor v0.0.4
 	github.com/ipfs/go-ipld-format v0.0.2
 	github.com/ipfs/go-log v1.0.2 // indirect
-	github.com/ipfs/go-merkledag v0.3.1
+	github.com/ipfs/go-merkledag v0.3.2
 	github.com/minio/sha256-simd v0.1.1 // indirect
 	github.com/multiformats/go-multihash v0.0.13
 	github.com/polydawn/refmt v0.0.0-20190807091052-3d65705ee9f1 // indirect
