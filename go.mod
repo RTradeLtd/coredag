@@ -14,7 +14,7 @@ require (
 	github.com/ipfs/go-log v1.0.2 // indirect
 	github.com/ipfs/go-merkledag v0.3.2
 	github.com/minio/sha256-simd v0.1.1 // indirect
-	github.com/multiformats/go-multihash v0.0.13
+	github.com/multiformats/go-multihash v0.0.14
 	github.com/polydawn/refmt v0.0.0-20190807091052-3d65705ee9f1 // indirect
 	github.com/whyrusleeping/cbor-gen v0.0.0-20200206220010-03c9665e2a66 // indirect
 	go.uber.org/atomic v1.5.1 // indirect
