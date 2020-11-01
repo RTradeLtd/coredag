@@ -3,7 +3,7 @@ module github.com/RTradeLtd/coredag
 go 1.12
 
 require (
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.4.3
 	github.com/ipfs/go-block-format v0.0.2
 	github.com/ipfs/go-blockservice v0.1.2 // indirect
 	github.com/ipfs/go-cid v0.0.6
